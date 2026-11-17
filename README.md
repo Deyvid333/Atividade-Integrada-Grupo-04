@@ -4,9 +4,9 @@ TIGELA ROXA
 ESTAREMOS VIRTUALIZANDO PEDIDOS DE AÇAÍ DA LOJA, TIGELA ROXA.
 COMO ELES REALIZAM SUAS VENDAS: ENTREGAS DE MOTOBOYS E DE RETIRADA A LOJA FÍSICA.
 Integrantes:
-Caio marqs
+Caio Marques
 Gabriel
-Deyvid Maciel
+Deyvid Maciel Soares Cardoso
 
 Escolpo do projeto:
 Na primeira pagina vamos criar uma dashbord com todas as infrmações 
