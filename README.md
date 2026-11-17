@@ -15,7 +15,7 @@ Necessarias para a manuetenção e gestao da loja, como os pedidos realizados ho
 2. Uma aba para o funcionário gerenciar pedidos(criar, editar e etc..)
 3. Uma aba para quem prepara o açai ver o pedido
 4. Gerenciar estoque(controle total)
-
+5. teste
 
 
 
