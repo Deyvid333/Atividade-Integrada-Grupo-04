@@ -17,7 +17,7 @@ Necessarias para a manuetenção e gestao da loja, como os pedidos realizados ho
 4. Gerenciar estoque(controle total)
 5. teste
 
-
+opaopaopsoapspa
 
 
 
