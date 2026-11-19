@@ -6,7 +6,7 @@ Deyvid Maciel: https://github.com/Deyvid333
 
 TIGELA ROXA
 ESTAREMOS VIRTUALIZANDO PEDIDOS DE AÇAÍ DA LOJA, TIGELA ROXA.
-COMO ELES REALIZAM SUAS VENDAS: ENTREGAS DE MOTOBOYS E DE RETIRADA A LOJA FÍSICA.
+COMO ELES REALIZAM SUAS VENDAS:
 
 Escopo do Projeto
 O que está dentro do escopo:
@@ -15,7 +15,7 @@ Sistema web interno feito em Python com Streamlit e banco de dados SQLite, proje
 
 Tela de login para os funcionários e administrador acessarem as funções do sistema.
 
-Tela inicial (dashboard) mostrando o faturamento do dia, da semana e do mês (somando apenas pedidos entregues), o total de pedidos e os avisos de ingredientes com estoque baixo.
+Tela inicial (dashboard) mostrando o faturamento do dia e do mês (somando apenas pedidos entregues), o total de pedidos e os avisos de ingredientes com estoque baixo.
 
 Cadastro e edição de preços e limites dos tamanhos de açaí (P de 300 g até 3 complementos, M de 500 g até 4, G de 1 kg até 5 e GG de 1,5 kg até 7) e dos complementos (porções de 50 g).
 
