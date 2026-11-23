@@ -31,7 +31,8 @@ Histórico de vendas por período, relatório completo para a produção e opç�
 
 Landing Page comercial em HTML e CSS responsiva (para computador, tablet e celular) apresentando o sistema para outras açaiterias interessadas e liberando o download do código-fonte.
 
-Configuração da rede local (roteador/AP com DHCP), três contêineres separados no servidor (DNS, Web e aplicação Python) e testes funcionando nas máquinas virtuais Windows 10 e Linux Debian 13.
+Configuração da rede local (roteador/AP com DHCP), três contêineres separados no servidor (DNS, Web e aplicação Python) e testes funcionando nas máquinas virtuais Windows 10 e Linux Debian 13.[RF_Sistema_Tigela_Roxa_v2.docx](https://github.com/user-attachments/files/35287044/RF_Sistema_Tigela_Roxa_v2.docx)
+
    
 
 ### Detalhamento do Objetivo
@@ -60,4 +61,17 @@ Desenvolver um sistema web leve em Python (com Streamlit e SQLite), rodando em r
 * Usar a opção de desativar em vez de apagar produtos, ingredientes e promoções do banco de dados, para não perder o histórico dos relatórios antigos.
 * Deixar os tamanhos, preços, ingredientes e promoções totalmente editáveis pelo administrador, facilitando a venda ou aluguel do sistema para outras açaiterias sem precisar mexer no código.
 * Configurar a rede local com roteador/AP e DHCP, subir os contêineres de DNS, Web (Landing Page) e da aplicação Python no servidor, e testar tudo funcionando nos computadores Windows 10 e Linux Debian 13.
+* 
+# links dos protótipos
+https://docs.google.com/document/d/1bockSs1NxKfq03jrBzip6TgETQ2Hat0MFk7Qs6IlLcE/edit?usp=sharing
 
+# levantamentos de requiitos
+# Software
+* Requisitos funcionais
+[[https://docs.google.com/document/d/1PlioxR3nxUemgb2hZsqcI2RViw1EgvuJ/edit](https://docs.google.com/document/d/1PlioxR3nxUemgb2hZsqcI2RViw1EgvuJ/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true)](https://docs.google.com/document/d/1PlioxR3nxUemgb2hZsqcI2RViw1EgvuJ/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true)
+* Requisitos não funcionais
+[https://docs.google.com/document/d/1ei88qu-jAL8vgZwMDTffz76qO3IF4_EF/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true](https://docs.google.com/document/d/1ei88qu-jAL8vgZwMDTffz76qO3IF4_EF/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true)
+* Regras de Negócio
+[https://docs.google.com/document/d/1JlpX4Bheyf8nH5ZLgDaBBCJUIlHeVkWT/edit](https://docs.google.com/document/d/1JlpX4Bheyf8nH5ZLgDaBBCJUIlHeVkWT/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true)
+
+# landingpage
