@@ -75,3 +75,10 @@ https://docs.google.com/document/d/1bockSs1NxKfq03jrBzip6TgETQ2Hat0MFk7Qs6IlLcE/
 [https://docs.google.com/document/d/1JlpX4Bheyf8nH5ZLgDaBBCJUIlHeVkWT/edit](https://docs.google.com/document/d/1JlpX4Bheyf8nH5ZLgDaBBCJUIlHeVkWT/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true)
 
 # landingpage
+* Requisitos funcionais
+[https://docs.google.com/document/d/11lneZRuHjyKVcSoGDmfX9ewN5HGER13L/edit](https://docs.google.com/document/d/11lneZRuHjyKVcSoGDmfX9ewN5HGER13L/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true)
+* Requisitos não funcionais
+https://docs.google.com/document/d/1V4H4OQufnczN5mXa3WiEXKg_7yAvvDVg/edit?usp=sharing&ouid=118158459684752374556&rtpof=true&sd=true
+* Regras de Negócio
+https://docs.google.com/document/d/1V4H4OQufnczN5mXa3WiEXKg_7yAvvDVg/edit
+
