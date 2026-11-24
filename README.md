@@ -65,6 +65,9 @@ Desenvolver um sistema web leve em Python (com Streamlit e SQLite), rodando em r
 # links dos protótipos
 https://docs.google.com/document/d/1bockSs1NxKfq03jrBzip6TgETQ2Hat0MFk7Qs6IlLcE/edit?usp=sharing
 
+# Repositorio da Landing Page
+https://github.com/Deyvid333/Atividade-Integrada-Grupo04-Landing-page
+
 # levantamentos de requiitos
 # Software
 * Requisitos funcionais
